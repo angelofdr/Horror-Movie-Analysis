@@ -39,19 +39,19 @@ Goal: Identify production factors driving **audience exposure** (log votes).
 <div align="center">
 
 ### Sub-Genre Distribution
-<img src="images/subgenre_distribution" width="700"/>
+<img src="images/subgenre_distribution.png" width="700"/>
 <br><i>Top 15 horror sub-genres by film count</i>
 
 ---
 
 ### IMDb Vote Distribution (Log Scale)
-<img src="images/votes_log_distribution" width="700"/>
+<img src="images/votes_log_distribution.png" width="700"/>
 <br><i>Density of audience exposure (n=169 films)</i>
 
 ---
 
 ### IMDb Rating Distribution
-<img src="images/rating_distribution" width="700"/>
+<img src="images/rating_distribution.png" width="700"/>
 <br><i>Quality vs. popularity analysis</i>
 
 </div>

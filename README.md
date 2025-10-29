@@ -39,7 +39,7 @@ Goal: Identify production factors driving **audience exposure** (log votes).
 ![Log Votes](images/votes_log_distribution.png)  
 *Audience exposure (n=169 films)*
 
-![Ratings](images/ratings_distribution.png)  
+![Ratings](images/rating_distribution.png)  
 *IMDb ratings distribution*
 
 ![Sub-genres](images/subgenre_distribution.png)  

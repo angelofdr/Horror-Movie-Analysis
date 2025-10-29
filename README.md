@@ -50,4 +50,10 @@ Goal: Identify production factors driving **audience exposure** (log votes).
 ### Files  
 - [`horror_analysis.R`](horror_analysis.R) → Full R script  
 - [`report.pdf`](report.pdf) → Academic report (14 pages)  
-- [`quarto_support.pdf`](quarto_support.pdf) → Quarto doc with code  
+- [`quarto_support.pdf`](quarto_support.pdf) → Quarto doc with code
+
+### Run the Code  
+```r
+library(tidyverse); library(tidytuesdayR)
+tuesdata <- tt_load('2024-10-29')
+# See horror_analysis.R

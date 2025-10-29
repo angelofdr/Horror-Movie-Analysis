@@ -34,6 +34,19 @@ Goal: Identify production factors driving **audience exposure** (log votes).
 
 ---
 
+### Visual Results  
+
+![Log Votes](images/plot_log_votes.png)  
+*Audience exposure (n=169 films)*
+
+![Ratings](images/plot_ratings.png)  
+*IMDb ratings distribution*
+
+![Sub-genres](images/plot_subgenres.png)  
+*Top horror sub-genres by count*
+
+---
+
 ### Files  
 - [`horror_analysis.R`](horror_analysis.R) → Full R script  
 - [`report.pdf`](report.pdf) → Academic report (14 pages)  

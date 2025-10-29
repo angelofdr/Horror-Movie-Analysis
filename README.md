@@ -36,13 +36,13 @@ Goal: Identify production factors driving **audience exposure** (log votes).
 
 ### Visual Results  
 
-![Log Votes](images/plot_log_votes.png)  
+![Log Votes](images/votes_log_distribution.png)  
 *Audience exposure (n=169 films)*
 
-![Ratings](images/plot_ratings.png)  
+![Ratings](images/ratings_distribution.png)  
 *IMDb ratings distribution*
 
-![Sub-genres](images/plot_subgenres.png)  
+![Sub-genres](images/subgenre_distribution.png)  
 *Top horror sub-genres by count*
 
 ---
